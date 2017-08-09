@@ -1,6 +1,6 @@
 {
   "name": "flaats",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "canvas based topologymap / inddormap monitoring drawing tool plugin",
   "main": "index.js",
   "author": "KernYoo(trustyoo86@gmail.com)",

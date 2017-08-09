@@ -6,7 +6,6 @@ bower_components
 *.iml
 
 # build files
-flaats
 docs
 example
 app
