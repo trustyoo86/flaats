@@ -1214,11 +1214,13 @@ class Flaats {
   }
 }
 
-if (module.exports) {
-  module.exports = Flaats;
-} else {
-  window.Flaats = Flaats;
-}
+export default Flaats;
+
+// if (module.exports) {
+//   module.exports = Flaats;
+// } else {
+//   window.Flaats = Flaats;
+// }
 
 
 
