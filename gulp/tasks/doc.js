@@ -6,5 +6,5 @@ import path from 'path';
 
 gulp.task('esdoc', () => {
   return gulp.src('flaats-src/src/**/*.js', {read: false})
-    .pipe(esdoc('docs/flaats'));
+    .pipe(esdoc('docs'));
 });

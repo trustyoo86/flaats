@@ -3,8 +3,12 @@
   "version": "0.9.1",
   "description": "canvas based topologymap / inddormap monitoring drawing tool plugin",
   "main": "index.js",
-  "author": "trustyoo86@gmail.com",
+  "author": "KernYoo(trustyoo86@gmail.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trustyoo86/flaats.git"
+  },
   "scripts": {
     "dev": "gulp flaats",
     "prod": "gulp flaats-min",
