@@ -1,0 +1,11 @@
+node_modules
+bower_components
+.idea
+*.xml
+*.iml
+
+# build files
+flaats
+docs
+example
+app

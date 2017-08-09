@@ -1,0 +1,5 @@
+{
+  "source": "flaats-src/src/**/*.js", 
+  "destination": "doc\flaats", 
+  "plugins":[{"name":"esdoc-standard-plugin"}]
+}
