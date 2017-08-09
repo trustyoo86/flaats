@@ -64,7 +64,7 @@ window.cancelRequestAnimFrame = (function(){
  *    zoomLevel: 0
  *   });
  */
-export default class Flaats {
+class Flaats {
   constructor(opt) {
     this._palette = null; // palette
     this._base = null; // base
