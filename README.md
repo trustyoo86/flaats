@@ -169,8 +169,6 @@ The modes that have been developed so far are select, move, and edit modes. Each
   map.changeMode('move');
 ```
 
-기타 자세한 내용들은 [flaats 문서 페이지](http://docs.flaats.org) 에서 확인하실 수 있습니다.<br/>
-Other details can be found on the [flaats Documentation Page] (http://docs.flaats.org).
 
 ## License
-MIT © [KernYoo](http://lazydev.tistory.com)
+MIT © [KernYoo](trustyoo86@gmail.com)
