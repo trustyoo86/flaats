@@ -8,9 +8,6 @@ Flaats.js is a canvas-based javascript library that helps you visualize your top
 사용된 플러그인은 jQuery 이며, 이후 jQuery를 걷어낸 순수한 javascript library로 완성할 예정입니다.<br/>
 The plug-in used is jQuery, and we plan to complete it with a pure javascript library that has been removed from jQuery.
 
-데모는 [flaats 데모](http://demo.flaats.org) 에서 확인하실 수 있습니다.<br/>
-The demo can be found in the [flaats demo] (http://demo.flaats.org).
-
 ## 브라우저 지원 Browser Support
 ---
 - IE: 9+
